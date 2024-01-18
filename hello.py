@@ -1,3 +1,3 @@
 v = "mom"
 print "hello world"
-print v
+print "the letter v is"
