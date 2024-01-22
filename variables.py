@@ -1,4 +1,7 @@
 a =1 #store 1 in ram in address a
-print(a)
 b="harry"
-print(b)
+c=True
+d=None
+
+print("the type of a is ",type(a))
+print(a,b,c,d)
